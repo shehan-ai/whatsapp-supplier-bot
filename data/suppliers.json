@@ -1,0 +1,78 @@
+{
+  "94772568777@c.us": {
+    "phone": "94772568777@c.us",
+    "location": {
+      "city": "Colombo",
+      "district": "Colombo District",
+      "province": "Western Province",
+      "lat": 6.93028901,
+      "lng": 79.8658598
+    },
+    "supplies": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "updated_at": "2025-11-30T12:55:40.909Z",
+    "created_at": "2025-11-30T11:10:02.412Z"
+  },
+  "94742929876@c.us": {
+    "phone": "94742929876@c.us",
+    "location": {
+      "city": "Heiyanthuduwa",
+      "district": "Gampaha District",
+      "province": "Western Province",
+      "lat": 6.97297003,
+      "lng": 79.97049863
+    },
+    "supplies": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "updated_at": "2025-11-30T13:12:17.790Z",
+    "created_at": "2025-11-30T12:57:51.774Z"
+  },
+  "94760159557@c.us": {
+    "phone": "94760159557@c.us",
+    "location": {
+      "city": "Rawathawatta",
+      "district": "Colombo District",
+      "province": "Western Province",
+      "lat": 6.7947512,
+      "lng": 79.9009105
+    },
+    "supplies": [
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "updated_at": "2025-11-30T14:01:12.129Z",
+    "created_at": "2025-11-30T14:01:12.129Z"
+  },
+  "94711365928@c.us": {
+    "phone": "94711365928@c.us",
+    "location": {
+      "city": "Dehiwala",
+      "district": "Colombo District",
+      "province": "Western Province",
+      "lat": 6.852592468261719,
+      "lng": 79.86582946777344
+    },
+    "supplies": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "updated_at": "2025-11-30T14:39:57.441Z",
+    "created_at": "2025-11-30T14:39:57.441Z"
+  }
+}

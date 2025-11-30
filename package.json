@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-supplier-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp-based supplier directory bot with Google Maps integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test-all.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "supplier",
+    "directory",
+    "google-maps"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^19.11.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0",
+    "xlsx": "^0.18.5"
+  }
+}
